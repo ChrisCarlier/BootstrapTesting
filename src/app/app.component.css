@@ -1,0 +1,18 @@
+#carousel-top{
+    background-color: #0C2E40;
+    margin-top:5%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
+.bloc{
+    height:auto;
+}
+.bloc-full{
+    text-align: center;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+.element{
+    background-color: #155170;
+}
